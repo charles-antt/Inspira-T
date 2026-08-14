@@ -109,3 +109,5 @@ Se aplicará un enfoque de pruebas multinivel para garantizar tanto el cumplimie
 2. **Matriz de Trazabilidad de Requisitos vs. Casos de Prueba.**
 3. **Reporte de Fallos y Defectos Registrados** (*Bug Tracking Report*).
 4. **Informe Final de Aceptación y Calidad del Software para Liberación.**
+
+}
