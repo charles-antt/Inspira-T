@@ -437,7 +437,7 @@ casos-de-uso.md
 | Bertha Hernández Aranda  | [251113-BerthaHernandezAranda](https://github.com/251113-BerthaHernandezAranda)       | Líder de Desarrollo   | Creación de la carpeta del proyecto en .java |
 | Alma Ariadne Maldonado Eslava | [251028-aame](https://github.com/251028)        | Administradora de Base de Datos         | Carga de los modelo de entidad E-R y modelo relacional, los scripts de la creación de la base de datos y el modelado de llenado y el llenado de Datos | 
 | Jesús Yahir Calderón López  | [250802-eng](https://github.com/250802-eng)        | Diseñador de UX/UI      |Se agregaron los bocetos de la pantalla de inicio y los mockups de las pantallas del Sistema de Gestión de Talleres |
-| Yair Sampayo Viveros  | [250943-cmd](https://github.com/250943-cmd)        | Diseñador UX/UI       | Se agregaron losWireframes y los prototipos de alta fidelidad del Sistema |
+| Yair Sampayo Viveros  | [250943-cmd](https://github.com/250943-cmd)        | Diseñador UX/UI       | Se agregaron los Wireframes y los prototipos de alta fidelidad del Sistema |
 | M.T.I. Marco A. Ramírez Hdez  | [MTI-MarcoRH](https://github.com/MTI-MarcoRH)        | Cliente        |
 
 
